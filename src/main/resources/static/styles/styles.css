@@ -22,7 +22,7 @@ body {
   height:75% !important;
   min-width: 0 !important;;
   top:60px !important;;
-  left:150px !important;;
+  left:200px !important;;
 }
 
 @media only screen and (max-width: 1450px) {
@@ -38,8 +38,8 @@ body {
     .meetup-logo{
       height:28% !important;
       min-width: 0 !important;
-      top:32px !important;
-      left:100px !important;
+      top:40px !important;
+      left:95px !important;
     }
     h1{
       font-size:30px;
