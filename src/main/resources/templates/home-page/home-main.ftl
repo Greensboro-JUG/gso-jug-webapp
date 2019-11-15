@@ -22,7 +22,7 @@
 
         <hr id="SponsorsDiv" class="featurette-divider">
 
-        <#include "home-sponsors.ftl">
+        <!-- <#include "home-sponsors.ftl"> -->
 
         <hr class="featurette-divider">
 

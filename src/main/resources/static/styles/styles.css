@@ -1,3 +1,64 @@
 html {
   scroll-behavior: smooth;
 }
+
+body {
+  padding-top: 4.5rem;
+}
+
+.navbar-toggler{
+  position : absolute;
+  top:0px;
+  right:15px;
+}
+
+/****** MEETUP ******/
+
+.meetup{
+  background-color: #00AAE8
+}
+
+.meetup-logo{
+  height:75% !important;
+  min-width: 0 !important;;
+  top:60px !important;;
+  left:150px !important;;
+}
+
+@media only screen and (max-width: 1450px) {
+    .meetup-logo{
+      height:55% !important;
+      min-width: 0 !important;;
+      top:60px !important;;
+      left:150px !important;;
+    }
+
+}
+@media only screen and (max-width: 1175px) {
+    .meetup-logo{
+      height:28% !important;
+      min-width: 0 !important;
+      top:32px !important;
+      left:100px !important;
+    }
+    h1{
+      font-size:30px;
+    }
+    h4{
+      font-size:17px;
+    }
+}
+/****** BUTTONS ******/
+
+.btn-primary{
+  color: #FFF;
+  background-color: #00AAE8;
+  border-color: #00AAE8;
+}
+
+.btn-meetup{
+  color: #00AAE8;
+  background-color: #FFF;
+  border-color: #FFF;
+}
+
