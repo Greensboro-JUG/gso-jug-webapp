@@ -1,64 +1,114 @@
 html {
-  scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
 
 body {
-  padding-top: 4.5rem;
+	padding-top: 4.5rem;
 }
 
 .navbar-toggler{
-  position : absolute;
-  top:0px;
-  right:15px;
+	position : absolute;
+	top:0px;
+	right:15px;
 }
 
-/****** MEETUP ******/
+/****** CAROUSEL ******/
+
+.inaugural{
+	background-image: url(/images/VenkatHeroImage-min.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+	width: 100%;
+	height: 100%;
+}
+.inaugural .carousel-caption{
+	background-color: #343A40;
+	padding: 60px;
+	max-width: 675px;
+}
 
 .meetup{
-  background-color: #00AAE8
+	background-color: #00AAE8
 }
-
 .meetup-logo{
-  height:75% !important;
-  min-width: 0 !important;;
-  top:60px !important;;
-  left:200px !important;;
+	height:75% !important;
+	min-width: 0 !important;;
+	top:60px !important;;
+	left:450px !important;;
 }
 
+
+@media only screen and (max-width: 1900px) {
+	.meetup-logo{
+		height:75% !important;
+		min-width: 0 !important;;
+		top:60px !important;;
+		left:120px !important;;
+	}
+
+}
 @media only screen and (max-width: 1450px) {
-    .meetup-logo{
-      height:55% !important;
-      min-width: 0 !important;;
-      top:60px !important;;
-      left:150px !important;;
-    }
+	.meetup-logo{
+		height:55% !important;
+		min-width: 0 !important;;
+		top:60px !important;;
+		left:120px !important;;
+	}
 
 }
 @media only screen and (max-width: 1175px) {
-    .meetup-logo{
-      height:28% !important;
-      min-width: 0 !important;
-      top:40px !important;
-      left:95px !important;
-    }
-    h1{
-      font-size:30px;
-    }
-    h4{
-      font-size:17px;
-    }
+	.meetup-logo{
+		height:45% !important;
+		min-width: 0 !important;;
+		top:60px !important;;
+		left:120px !important;;
+	}
+	.meetup h1{
+		font-size:32px;
+	}
+	.meetup h4{
+		font-size:24px;
+	}
+
+}
+@media only screen and (max-width: 576px) {
+	.inaugural .carousel-caption {
+		padding: 30px;
+	}
+	.meetup-logo{
+		height:35% !important;
+		min-width: 0 !important;;
+		top:60px !important;;
+		left:95px !important;;
+	}
+	.meetup h1{
+		font-size:32px;
+	}
+	.meetup h4{
+		font-size:16px;
+	}
 }
 /****** BUTTONS ******/
 
 .btn-primary{
-  color: #FFF;
-  background-color: #00AAE8;
-  border-color: #00AAE8;
+	color: #FFF;
+	background-color: #00AAE8;
+	border-color: #00AAE8;
+}
+.btn-green{
+	color: #000;
+	background-color: #ADDB25;
+	border-color: #ADDB25;
+}
+.btn-orange{
+	color: #000;
+	background-color: #FDB32E;
+	border-color: #FDB32E;
 }
 
 .btn-meetup{
-  color: #00AAE8;
-  background-color: #FFF;
-  border-color: #FFF;
+	color: #00AAE8;
+	background-color: #FFF;
+	border-color: #FFF;
 }
 
