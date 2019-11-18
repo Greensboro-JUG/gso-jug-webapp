@@ -1,19 +1,22 @@
-	<div class="row featurette">
+		<div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading">Inaugural Event </h2> 
             <p class="lead">
-            	We are very excited to announce the inaugural meetup event for GSO JUG in the triad area with a great speaker - <a href="https://nofluffjuststuff.com/conference/speaker/venkat_subramaniam" target="_blank"> Dr. Venkat Subramaniam </a>. 
-            	The event will be held on January 16th 2020 , 06:00 PM in Greensboro Downtown at :
-            	<div class="col-md-4">
+            	We are very excited to announce the inaugural meetup event for Greensboro Java Users Group in the Triad area with a great speaker - <a href="https://nofluffjuststuff.com/conference/speaker/venkat_subramaniam" target="_blank"> Dr. Venkat Subramaniam </a>. 
+            </p>
+            <p class="lead">
+            	The event will be held : <br />January 16th 2020 @ 06:00 PM <br />in Greensboro Downtown at 
+            	<div class="col">
 	            	<h6>
 	            		<span class="text-muted"> 
-	            			The Nussbaum Room - 
-	            			Greensboro Public Library
-	            			219 N Church St,
-	            			Greensboro, NC - 27401
+	            			Greensboro Public Library<br />
+	            			The Nussbaum Room<br />
+	            			219 N Church St<br />
+	            			Greensboro, NC &nbsp; 27401
 	            	  	</span>
 	            	</h6>
             	</div>
+            </p>
             	<div class="col-lg-offset-2 col-lg-10"></div>
             	<div class="col-lg-offset-2 col-lg-10"></div>
             	<p class="lead">
@@ -40,7 +43,7 @@
 						</div>
 	            	</p>
             	</div>
-            	<p class="lead"> 
+ <!--            	<p class="lead"> 
             		Parking:
             		<div class="col-md-7">
 		            	<h6>
@@ -49,7 +52,7 @@
 		            	  	</span>
 		            	</h6>
 	            	</div>
-            	</p>
+            	</p> -->
             </p>
             
           </div>
