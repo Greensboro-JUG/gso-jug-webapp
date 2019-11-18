@@ -102,6 +102,39 @@ body {
 		margin-top:3rem;
 	}
 }
+
+.bg-blue{
+	background-color: #D8EEF6;
+}
+.bg-green{
+	background-color: #F7FFDF;
+}
+.bg-orange{
+	background-color: #FBEDD5;
+}
+.bg-gray{
+	background-color: #e9ecef;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette {
+  padding: 0 2rem 2rem 2rem; /* Space out the Bootstrap <hr> more */
+}
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+  margin-top:60px !important;
+}
+
 /****** BUTTONS ******/
 
 .btn-primary{
@@ -121,8 +154,7 @@ body {
 }
 
 .btn-meetup{
-	color: #00AAE8;
+	color: #dc3545;
 	background-color: #FFF;
 	border-color: #FFF;
 }
-
