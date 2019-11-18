@@ -1,8 +1,8 @@
-		<div class="row featurette">
+	<div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading">Inaugural Event </h2> 
             <p class="lead">
-            	We are very excited to announce the inaugural meetup event for GSO JUG in the triad area with a great speaker - Dr. Venkat Subramaniam. 
+            	We are very excited to announce the inaugural meetup event for GSO JUG in the triad area with a great speaker - <a href="https://nofluffjuststuff.com/conference/speaker/venkat_subramaniam" target="_blank"> Dr. Venkat Subramaniam </a>. 
             	The event will be held on January 16th 2020 , 06:00 PM in Greensboro Downtown at :
             	<div class="col-md-4">
 	            	<h6>
