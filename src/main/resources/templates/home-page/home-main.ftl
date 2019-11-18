@@ -9,24 +9,23 @@
 
       <div class="container marketing">
 
-        
-        <!-- START THE FEATURETTES -->
-
-        <hr id="InauguralEventDiv"  class="featurette-divider">
-
-        <#include "home-learn-more.ftl">
-
-        <hr id="AboutUsDiv" class="featurette-divider">
-
-		<#include "home-about-us.ftl">
-
-        <hr id="SponsorsDiv" class="featurette-divider">
-
-        <!-- <#include "home-sponsors.ftl"> -->
-
-        <hr class="featurette-divider">
-
-        <!-- /END THE FEATURETTES -->
+	        
+	        <!-- START THE FEATURETTES -->
+	
+	        <hr id="InauguralEventDiv"  class="featurette-divider">
+	
+	        <#include "home-learn-more.ftl">
+	
+	        <hr id="AboutUsDiv" class="featurette-divider">
+	
+			<#include "home-about-us.ftl">
+	
+	        <!-- /END THE FEATURETTES -->
 
       </div><!-- /.container -->
+      
+      <div id="ContactUsDiv" class="container-fluid">
+      		<#include "home-contactus.ftl">																			
+      </div><!-- /.container-fluid -->
+
 </@layout.application_base_layout>

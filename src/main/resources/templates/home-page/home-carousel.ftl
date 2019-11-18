@@ -18,23 +18,13 @@
               </div>
             </div>
           </div>
-<!--           <div class="carousel-item">
-            <img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
-            <div class="container">
-              <div class="carousel-caption">
-                <h1>Another example headline.</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
-              </div>
-            </div>
-          </div> -->
           <div class="carousel-item meetup">
             <img class="meetup-logo" src="images/meetup-logo.svg" alt="Meetup Logo">
             <div class="container-fluid">
               <div class="carousel-caption text-right">
                 <h1>Join Us on Meetup</h1>
                 <h4>See who's already joined our group<br />and invite your friends and colleagues,<br />so no one misses out!</h4>
-                <p><a class="btn btn-lg btn-meetup" href="#" role="button">Go to Meetup</a></p>
+                <p><a class="btn btn-lg btn-meetup" href="https://www.meetup.com/GSO-JUG/" target="_blank" role="button">Go to Meetup</a></p>
               </div>
             </div>
           </div>

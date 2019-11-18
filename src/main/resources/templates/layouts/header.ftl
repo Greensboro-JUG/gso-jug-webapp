@@ -22,7 +22,7 @@
             <a class="nav-link" href="#AboutUsDiv">AboutUs</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">ContactUs</a>
+            <a class="nav-link" href="#ContactUsDiv">ContactUs</a>
           </li>
         </ul>
       </div>          
