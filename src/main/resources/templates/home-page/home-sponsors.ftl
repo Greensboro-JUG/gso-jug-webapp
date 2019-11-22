@@ -1,8 +1,14 @@
 <div class="row featurette">
 	<div class="col">
-    	<h2 class="featurette-heading">Sponsors</h2>
+    	<h2 class="featurette-heading">Sponsor US</h2>
+    	
+    	<hr/>
         <p class="lead">
-			Greeensboro JUG accepts different levels of sponsorship and they have the many benefits . All the sponsors logos will be shown on our website.
+        
+        	Greensboro JUG is supported by sponsorship money . We really appreciate and value each and every sponsor for their contribution.
+        	We proudly display the logos of the sponsors on our website.
+        	We have some recurring house keeping costs like event space reservations , pizza etc. We also run in to travel and lodging expenses when trying to get famous speakers in to Greensboro.
+			In order to cover these costs, We will need sponsors . We accept different levels of sponsorship . Below are the details:
 			
 			<hr/>
 			<h4>BRONZE( $1000/Year )</h4>
