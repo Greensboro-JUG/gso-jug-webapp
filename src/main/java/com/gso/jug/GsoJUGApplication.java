@@ -9,5 +9,8 @@ public class GsoJUGApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GsoJUGApplication.class, args);
 	}
+	
+	
+	
 
 }
