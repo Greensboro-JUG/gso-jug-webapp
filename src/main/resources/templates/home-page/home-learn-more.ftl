@@ -5,14 +5,14 @@
             	We are very excited to announce the inaugural meetup event for Greensboro Java Users Group in the Triad area with a great speaker - <a href="https://nofluffjuststuff.com/conference/speaker/venkat_subramaniam" target="_blank"> Dr. Venkat Subramaniam </a>. 
             </p>
             <p class="lead">
-            	The event will be held : <br />January 16th 2020 @ 06:00 PM <br />in Greensboro Downtown at 
+            	The event will be held : <br />January 16th 2020 @ 06:00 PM <br />at University of NorthCarolina, Greensboro at 
             	<div class="col">
 	            	<h6>
 	            		<span class="text-muted"> 
-	            			Greensboro Public Library<br />
-	            			The Nussbaum Room<br />
-	            			219 N Church St<br />
-	            			Greensboro, NC &nbsp; 27401
+	            			Bryan School Of Business<br />
+	            			Auditorium<br />
+	            			516 Stirling Street <br />
+	            			Greensboro, NC &nbsp; 27412
 	            	  	</span>
 	            	</h6>
             	</div>
