@@ -5,14 +5,16 @@
             	We are very excited to announce the inaugural meetup event for Greensboro Java Users Group in the Triad area with a great speaker - <a href="https://nofluffjuststuff.com/conference/speaker/venkat_subramaniam" target="_blank"> Dr. Venkat Subramaniam </a>. 
             </p>
             <p class="lead">
-            	The event will be held : <br />January 16th 2020 @ 06:00 PM <br />at University of NorthCarolina, Greensboro at 
+            	Event Details : <br /><br />January 16th 2020 @ 06:00 PM <br />at University of NorthCarolina, Greensboro at 
             	<div class="col">
 	            	<h6>
 	            		<span class="text-muted"> 
 	            			Bryan School Of Business<br />
-	            			Auditorium<br />
-	            			516 Stirling Street <br />
-	            			Greensboro, NC &nbsp; 27412
+	            			Room 122 <br />
+	            			506 Stirling Street <br />
+	            			Greensboro, NC &nbsp; 27412 <br/><br/>
+	            			
+	            			You can park at UNCG Parking Deck which is adjacent to Bryan School of Business and clearly marked. Room 122 is on First Floor of the building.
 	            	  	</span>
 	            	</h6>
             	</div>
@@ -20,7 +22,7 @@
             	<div class="col-lg-offset-2 col-lg-10"></div>
             	<div class="col-lg-offset-2 col-lg-10"></div>
             	<p class="lead">
-            		He will talk about the follwoing topics:
+            		Topic of the Talk :
             	</p>
             	<div class="col-md-9">
 	            	<p>
