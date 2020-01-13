@@ -6,23 +6,23 @@
 
 		<div class="container  ">
 			<div class="row ">
-			
-			    <div class="col">
+			    <div class="col-md-6" style="padding-top: 15px">
 			      <a href="http://www.archmi.com" target="_arch">
-			            <img class="img-fluid img-thumbnail d-block h-100 " src="images/ArchLogo.svg" width="273" height="72" style="background-color:white;" alt="Arch Logo">
+			            <img class="img-fluid img-thumbnail d-block h-100 " src="images/ArchLogo.svg" width="475" height="166" style="background-color:white;" alt="Arch Logo">
 			      </a>
 			    </div>
-			    <div class="col">
+			    <div class="col-md-6" style="padding-top: 15px">
 			      <a href="http://www.uncg.edu" target="_uncg">
-			            <img class="img-fluid img-thumbnail d-block h-100 " src="images/uncg_logo.svg" width="273" height="72" style="background-color:#062a56;" alt="UNCG Logo">
+			            <img class="img-fluid img-thumbnail d-block h-100 " src="images/uncg_logo.svg" width="475" height="166" style="background-color:#062a56;" alt="UNCG Logo">
 			      </a>
 			    </div>
-				<div class="col">
+			</div>
+			<div class="row">
+				<div class="col-md-6" style="padding-top:15px">
 					<a href="https://www.teksystems.com/en" target="_teksystems">
-						<img class="img-fluid img-thumbnail d-block h-100 " src="images/teksystems.png" width="273" height="72" style="background-color:white;" alt="TekSystems Logo">
+						<img class="img-fluid img-thumbnail d-block h-100 " src="images/teksystems.png" width="475" height="166" style="background-color:white; padding: 17px" alt="TekSystems Logo">
 					</a>
 				</div>
-
 			  </div>
          </div>
 		<hr/>
