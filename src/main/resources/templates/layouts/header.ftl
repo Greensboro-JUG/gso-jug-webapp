@@ -29,7 +29,7 @@
             <a class="nav-link" href="https://www.meetup.com/GSO-JUG/events" target="_meetup">MeetupEvents</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#LocationDiv" target="_location">Location</a>
+            <a class="nav-link" href="#LocationDiv">Location</a>
           </li>
 		  <li class="nav-item">
             <a class="nav-link" href="#ContactUsDiv">ContactUs</a>
@@ -55,7 +55,7 @@
             <a class="nav-link" href="https://www.meetup.com/GSO-JUG/events" target="_meetup">MeetupEvents</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#LocationDiv" target="_location">Location</a>
+            <a class="nav-link" href="#LocationDiv">Location</a>
           </li>
 		  <li class="nav-item">
             <a class="nav-link" href="#ContactUsDiv">ContactUs</a>
