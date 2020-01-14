@@ -12,6 +12,12 @@
 	      	<div id="InauguralEventDiv" class="bg-blue">
 	      		<#include "home-learn-more.ftl">
 	      	</div>
+
+		    <hr id="LocationDiv" />
+
+		    <div id="LocationDiv" class="bg-blue">
+			   <#include "location.ftl">
+		    </div>
 	      	
 	      	<hr id="AboutUsDiv" />
 	      	
@@ -20,8 +26,7 @@
 	      	</div>
 	      	
 	      	<hr id="SponsorsDiv" />
-	      	
-	      	
+
 			<div class="bg-blue">
 	      		<#include "home-sponsors.ftl">	
 	      	</div>	

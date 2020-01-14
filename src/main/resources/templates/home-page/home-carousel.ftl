@@ -11,7 +11,7 @@
                 <h4>
                 	January 16, 2020 @ 6:00 pm<br />                
                 	<big class="d-none d-sm-block">An Evening with Dr. Venkat Subramaniam</big><br />
-                  <big class="d-block d-sm-none pt-1">An Evening with<br />Dr. Venkat Subramaniam</big>
+                  <big class="d-block d-sm-none pt-1">An Evening with<br/>Dr. Venkat Subramaniam</big>
                 </h4>
                 <p><a class="btn btn-lg btn-green" href="#InauguralEventDiv" role="button">Learn More</a></p>
               </div>
@@ -22,7 +22,7 @@
             <div class="container-fluid">
               <div class="carousel-caption text-right">
                 <h1>Join Us on Meetup</h1>
-                <h4>See who's already joined our group<br />and invite your friends and colleagues,<br />so no one misses out!</h4>
+                <h4>See who's already joined our group<br/>and invite your friends and colleagues,<br/>so no one misses out!</h4>
                 <p><a class="btn btn-lg btn-meetup" href="https://www.meetup.com/GSO-JUG/" target="_meetup" role="button">Go to Meetup</a></p>
               </div>
             </div>
