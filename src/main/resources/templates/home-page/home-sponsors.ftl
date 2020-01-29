@@ -1,32 +1,27 @@
 <div class="row featurette">
-	<div class="col">
+	<div class="col-12">
     	<h2 class="featurette-heading">Sponsors</h2>
     	
     	<hr/>
-
-		<div class="container  ">
-			<div class="row ">
-			    <div class="col-md-6" style="padding-top: 15px">
-			      <a href="http://www.archmi.com" target="_arch">
-			            <img class="img-fluid img-thumbnail d-block h-100 " src="images/ArchLogo.svg" width="475" height="166" style="background-color:white;" alt="Arch Logo">
-			      </a>
-			    </div>
-			    <div class="col-md-6" style="padding-top: 15px">
-			      <a href="http://www.uncg.edu" target="_uncg">
-			            <img class="img-fluid img-thumbnail d-block h-100 " src="images/uncg_logo.svg" width="475" height="166" style="background-color:#062a56;" alt="UNCG Logo">
-			      </a>
-			    </div>
-			</div>
-			<div class="row">
-				<div class="col-md-6" style="padding-top:15px">
-					<a href="https://www.teksystems.com/en" target="_teksystems">
-						<img class="img-fluid img-thumbnail d-block h-100 " src="images/teksystems.png" width="475" height="166" style="background-color:white; padding: 17px" alt="TekSystems Logo">
-					</a>
-				</div>
-			  </div>
-         </div>
-		<hr/>
 		
+		<div>
+			<a href="http://www.archmi.com" target="_arch">
+				<img class="sponsor-logo img-fluid " src="images/ArchLogo.svg" style="background-color:white;" alt="Arch Logo">
+			</a>
+				      
+			<a href="http://www.uncg.edu" target="_uncg">
+				<img class="sponsor-logo img-fluid " src="images/uncg_logo.svg" style="background-color:#062a56;" alt="UNCG Logo">
+			</a>
+				      
+			<a href="https://www.jetbrains.com/" target="_jetbrains">
+				<img class="sponsor-logo img-fluid " src="images/jetbrains-logo.svg" style="background-color:#062a56;" alt="JetBrains Logo">
+	        </a>
+	        <!-- <a href="https://www.jetbrains.com/" target="_jetbrains">
+				<img class="sponsor-logo img-fluid " src="images/teksystems.png" style="background-color:#00000;" alt="JetBrains Logo">
+	        </a> ->
+		</div>
+		
+		<hr/>
         <p class="lead">
         
         	
