@@ -167,3 +167,31 @@ body {
 	background-color: #FFF;
 	border-color: #FFF;
 }
+
+
+/****** Sponsor Image *****/
+
+.sponsor-logo {
+	padding: .25em
+}
+
+@media ( min-width :0) {
+	.sponsor-logo {
+		height: 90px;
+		width: 90px
+	}
+}
+
+@media ( min-width :576px) {
+	.sponsor-logo {
+		height: 180px;
+		width: 180px
+	}
+}
+
+@media ( min-width :992px) {
+	.sponsor-logo {
+		height: 260px;
+		width: 260px
+	}
+}
