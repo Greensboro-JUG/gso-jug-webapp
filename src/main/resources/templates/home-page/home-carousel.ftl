@@ -17,6 +17,14 @@
               </div>
             </div>
           </div>
+          <div class="carousel-item" style="background-color: black">
+            <img class="meetup-logo" src="images/jetbrains-logo.svg" alt="Meetup Logo">
+            <div class="container-fluid">
+              <div class="carousel-caption text-right">
+                <h4>Follow us on twitter <a href="https://twitter.com/GreensboroJug" target="_twitter"> @GreensboroJug </a> <br/> to win free IntelliJ Licenses at the meetup event.</h4>
+              </div>
+            </div>
+          </div>
           <div class="carousel-item meetup">
             <img class="meetup-logo" src="images/meetup-logo.svg" alt="Meetup Logo">
             <div class="container-fluid">
@@ -27,6 +35,7 @@
               </div>
             </div>
           </div>
+
         </div>
         <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
