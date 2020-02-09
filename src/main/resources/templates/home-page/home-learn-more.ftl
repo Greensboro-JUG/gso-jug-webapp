@@ -6,7 +6,8 @@
             	He is a well known speaker and is a JUG leader for NYSIG , the largest JUG in North America.
             </p>
             <p class="lead">
-				Event Date & Time : <b>March 19th 2020 @ 06:00 PM</b>
+				Event Date & Time : <b>March 19th 2020 @ 06:00 PM</b> <br/>
+				Where: <a href="/location">Click here for Location Details</a>
             </p>
             	<div class="col-lg-offset-2 col-lg-10"></div>
             	<div class="col-lg-offset-2 col-lg-10"></div>
