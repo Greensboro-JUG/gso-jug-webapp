@@ -12,4 +12,14 @@ public class MainController {
 		return "home-page/home-main";
 	}
 	
+	@GetMapping("/jobs")
+	public String getJobsBoard(Model model) {
+		return "jobs-page/jobs-main";
+	}
+	
+	@GetMapping("/location")
+	public String getLocationPage(Model model) {
+		return "location-page/location-main";
+	}
+	
 }

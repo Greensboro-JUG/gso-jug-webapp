@@ -172,7 +172,9 @@ body {
 /****** Sponsor Image *****/
 
 .sponsor-logo {
-	padding: .25em
+	padding: .25em;
+	border:5px solid white;
+	
 }
 
 @media ( min-width :0) {

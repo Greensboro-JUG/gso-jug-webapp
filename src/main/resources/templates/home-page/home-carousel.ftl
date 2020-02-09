@@ -7,13 +7,13 @@
           <div class="carousel-item active" >
             <div class="container-fluid inaugural">
               <div class="carousel-caption text-left">
-                <h1>Inaugural Event</h1>
+                <h1>Our Next Meetup Event</h1>
                 <h4>
-                	January 16, 2020 @ 6:00 pm<br />                
-                	<big class="d-none d-sm-block">An Evening with Dr. Venkat Subramaniam</big><br />
-                  <big class="d-block d-sm-none pt-1">An Evening with<br/>Dr. Venkat Subramaniam</big>
+                	March 19, 2020 @ 6:00 pm<br />                
+                	<big class="d-none d-sm-block">Java Workshop with Chandra Guntur</big><br />
+                  <big class="d-block d-sm-none pt-1">Java Workshop with <br/>Chandra Guntur</big>
                 </h4>
-                <p><a class="btn btn-lg btn-green" href="#InauguralEventDiv" role="button">Learn More</a></p>
+                <p><a class="btn btn-lg btn-green" href="#ChandraGunturEvent" role="button">Learn More</a></p>
               </div>
             </div>
           </div>

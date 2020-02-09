@@ -16,9 +16,13 @@
 			<a href="https://www.jetbrains.com/" target="_jetbrains">
 				<img class="sponsor-logo img-fluid " src="images/jetbrains-logo.svg" style="background-color:#062a56;" alt="JetBrains Logo">
 	        </a>
-	        <!-- <a href="https://www.jetbrains.com/" target="_jetbrains">
-				<img class="sponsor-logo img-fluid " src="images/teksystems.png" style="background-color:#00000;" alt="JetBrains Logo">
-	        </a> ->
+	        <hr class="d-none d-sm-block" />
+			<a href="https://www.teksystems.com/" target="_teksystems">
+				<img class="sponsor-logo img-fluid " src="images/teksystems-logo.png" style="background-color:#062a56;" alt="JetBrains Logo">
+	        </a>
+	        <a href="https://experiencedrecruitingpartners.com/" target="_erp">
+				<img class="sponsor-logo img-fluid " src="images/erp-logo.png" style="background-color:#062a56;" alt="JetBrains Logo">
+	        </a>
 		</div>
 		
 		<hr/>
