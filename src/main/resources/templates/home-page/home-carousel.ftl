@@ -5,7 +5,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active" >
-            <div class="container-fluid inaugural">
+            <div class="container-fluid carousel-image">
               <div class="carousel-caption text-left">
                 <h1>Our Next Meetup Event</h1>
                 <h4>
@@ -21,7 +21,17 @@
             <img class="meetup-logo" src="images/jetbrains-logo.svg" alt="Meetup Logo">
             <div class="container-fluid">
               <div class="carousel-caption text-right">
-                <h4>Follow us on twitter <a href="https://twitter.com/GreensboroJug" target="_twitter"> @GreensboroJug </a> <br/> to win free IntelliJ Licenses at the meetup event.</h4>
+                <h4>Follow us on twitter <a href="https://twitter.com/GreensboroJug" target="_twitter"> @GreensboroJug </a> <br/> to win FREE!!! IntelliJ licenses at the meetup event.</h4>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" >
+            <div class="container-fluid carousel-image-past-event">
+              <div class="carousel-caption text-left">
+                <h1>Successful Inaugural Event</h1>
+                <h4>
+                	Great session from Dr. Venkat Subramaniam. <br/>Thank you every one for the support !
+                </h4>
               </div>
             </div>
           </div>

@@ -27,17 +27,34 @@ body {
 
 /****** CAROUSEL ******/
 
-.inaugural{
+.carousel-image{
 	background-image: url(/images/VenkatHeroImage-min.jpg);
 	background-size: cover;
 	background-position: 50% 50%;
 	width: 100%;
 	height: 100%;
 }
-.inaugural .carousel-caption{
+
+.carousel-image .carousel-caption{
 	background-color: #343A40;
-	padding: 60px;
+	padding: 20px;
 	max-width: 675px;
+}
+
+
+.carousel-image-past-event{
+	background-image: url(/images/jug-session1-pic.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+	width: 100%;
+	height: 100%;
+}
+
+.carousel-image-past-event .carousel-caption{
+	background-color: #343A40;
+	padding: 20px;
+	max-width: 675px;
+	bottom:300px;
 }
 
 .meetup{
@@ -85,7 +102,7 @@ body {
 
 }
 @media only screen and (max-width: 576px) {
-	.inaugural .carousel-caption {
+	.carousel-image .carousel-caption {
 		padding: 30px;
 	}
 	.meetup-logo{
