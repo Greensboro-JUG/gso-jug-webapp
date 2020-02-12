@@ -162,6 +162,15 @@ body {
   margin-top:60px !important;
 }
 
+.featurette-image {
+	align-items: center;
+	display: flex;
+}
+
+.featurette-image img {
+	margin: 0 auto;
+}
+
 /****** BUTTONS ******/
 
 .btn-primary{
@@ -191,14 +200,14 @@ body {
 
 .sponsor-logo {
 	padding: .25em;
-	border:5px solid white;
-	
+	border: 5px solid white;
+	margin-right: 10px;
 }
 
 @media ( min-width :0) {
 	.sponsor-logo {
-		height: 90px;
-		width: 90px
+		height: 80px;
+		width: 80px
 	}
 }
 
@@ -211,7 +220,42 @@ body {
 
 @media ( min-width :992px) {
 	.sponsor-logo {
-		height: 260px;
-		width: 260px
+		height: 240px;
+		width: 240px
 	}
+}
+
+.sponsor {
+	position: relative;
+}
+
+/****** Sponsor Levels ******/
+
+@media (min-width: 0) {
+	.logo-seal-stamp {
+		height:25px;
+		max-width:50px;
+		position:absolute;
+		right: -10px;
+	}
+}
+
+@media ( min-width: 576px) {
+	.logo-seal-stamp {
+		height:50px;
+		max-width: 75px;
+		position: absolute;
+		right: -10px;
+	}
+}
+
+.logo-seal {
+	height:50px;
+	max-width: 75px;
+}
+
+.sponsor-level-header {
+	margin-bottom: 0;
+	float: left;
+	margin-top: 15px;
 }
