@@ -23,7 +23,7 @@
             <img class="meetup-logo" src="images/jetbrains-logo.svg" alt="Meetup Logo">
             <div class="container-fluid">
               <div class="carousel-caption text-right">
-                <h4>Follow us on twitter <a href="https://twitter.com/GreensboroJug" target="_twitter"> @GreensboroJug </a> <br/> to win FREE!!! IntelliJ licenses at the meetup event.</h4>
+                <h4>Follow us on twitter <a href="https://twitter.com/GreensboroJug" target="_twitter"> @GreensboroJug </a> <br/> to enter for a chance to win a FREE!!! JetBrains license at the MeetUp event.</h4>
               </div>
             </div>
           </div>

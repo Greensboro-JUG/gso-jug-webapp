@@ -1,7 +1,7 @@
         <div class="row featurette">
           
-          <div class="col-md-5 order-md-1 text-center">
-            <img class="featurette-image aboutus-img-fluid mx-auto p-2" data-src="holder.js/500x500/auto" src="images/gso-jug-logo.svg" alt="Generic placeholder image">
+          <div class="col-md-5 order-md-1 featurette-image">
+            <img class="aboutus-img-fluid mx-auto p-2" data-src="holder.js/500x500/auto" src="images/gso-jug-logo.svg" alt="Generic placeholder image">
           </div>
           <div class="col-md-7 order-md-2">
             <h2 class="featurette-heading">About Us</h2>

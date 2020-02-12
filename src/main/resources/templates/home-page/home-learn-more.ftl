@@ -26,8 +26,8 @@
             </p>
             
           </div>
-          <div class="col-md-5">
-            <img class="featurette-image img-fluid rounded-circle mx-auto" style="margin-top:6rem" src="images/chandra-guntur.jpeg">
+          <div class="col-md-5 featurette-image">
+            <img class="img-fluid rounded-circle mx-auto" src="images/chandra-guntur.jpeg">
           </div>
           
         </div>
