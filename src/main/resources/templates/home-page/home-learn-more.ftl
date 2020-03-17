@@ -1,5 +1,14 @@
-		<div class="row featurette">
-          <div class="col-md-7">
+		<div class="row featurette" style="position: relative">
+			<div style="background: #dc3545; position: absolute; width: 65%; height: 65%; opacity: 1; z-index: 9; color: white; left: 50%; top: 50%; transform: translate(-50%, -50%); text-align: center">
+				<div style="display:table; width: 100%; height: 100%">
+					<div style="display: table-cell; vertical-align: middle">
+						<h4>Sessions have been postponed due to Coronavirus (COVID-19).</h4><br>
+						<h6>Visit the <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">CDC's website</a> for more information.</h6><br>
+						Please stay safe!
+					</div>
+				</div>
+			</div>
+          <div class="col-md-7" style="opacity: .2;">
             <h2 class="featurette-heading">Java Workshop with Chandra Guntur</h2> 
             <p class="lead">
             	Java Coding is fun. Have a lot of fun learning in a hands-on workshop conducted by Mr. Chandra Guntur.
@@ -26,7 +35,7 @@
             </p>
             
           </div>
-          <div class="col-md-5 featurette-image">
+          <div class="col-md-5 featurette-image" style="opacity: .2">
             <img class="img-fluid rounded-circle mx-auto" src="images/chandra-guntur.jpeg">
           </div>
           
