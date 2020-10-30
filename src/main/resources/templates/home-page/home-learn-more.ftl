@@ -13,7 +13,7 @@
             	<div class="col-lg-offset-2 col-lg-10"></div>
             	<div class="col-lg-offset-2 col-lg-10"></div>
             	<p class="lead">
-					Come Join us to enter a raffle to win a <b>FREE Intellij IDEA Jetbrains Licenses</b>.
+					Come Join us to enter a raffle to win <b>FREE Intellij IDEA Jetbrains Licenses</b>.
             	</p>
             	<div class="col-md-9">
 	            	<p>
