@@ -9,6 +9,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
+
 @Controller
 @RequiredArgsConstructor
 public class MainController {
@@ -32,14 +34,14 @@ public class MainController {
 	}
 
 	@PostMapping(value = "/raffle" , consumes = MediaType.APPLICATION_JSON_VALUE , produces = MediaType.APPLICATION_JSON_VALUE)
-	public @ResponseBody Long enterRaffle(@RequestBody Raffle raffle) {
+	public @ResponseBody Raffle enterRaffle(@RequestBody Raffle raffle) {
 		Raffle exisiting = raffleRepository.findByEmail(raffle.getEmail().trim());
 
 		if(null != exisiting) {
-			return exisiting.getId();
+			return exisiting;
 		}
 
-		return raffleRepository.save(raffle).getId();
+		return raffleRepository.save(raffle);
 	}
 
 	@GetMapping(value = "/draw", produces = MediaType.APPLICATION_JSON_VALUE)
@@ -49,6 +51,8 @@ public class MainController {
 
 	@GetMapping("/raffle-main")
 	public String getRafflle(Model model) {
+		List<Raffle> raffleList = raffleRepository.findAll();
+		model.addAttribute("raffleList", raffleList );
 		return "raffle-page/raffle-main";
 	}
 

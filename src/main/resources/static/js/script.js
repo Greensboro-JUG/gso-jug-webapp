@@ -12,28 +12,39 @@ $('.return-to-top').click(function () {    // When arrow is clicked
     }, 500);
 });
 
-$('#enterRaffle').click(function (){
-    $.ajax({
-        type: 'POST',
-        url: 'raffle',
-        data: JSON.stringify({
-            'first_name' : $('#first_name').val(),
-            'last_name' : $('#last_name').val(),
-            'email' : $('#email').val().trim()
-        }),
-        dataType: 'json',
-        contentType: 'application/json',
-        success: function (data){
-            $('#raffle').modal('toggle');
-            $('#first_name').val('');
-            $('#last_name').val('');
-            $('#email').val('');
-        }
-    });
+$('#raffleForm').submit(function (event){
+    var form = this;
+    if (form.checkValidity() === false) {
+        event.preventDefault();
+        event.stopPropagation();
+    } else{
+
+        $.ajax({
+            type: 'POST',
+            url: 'raffle',
+            data: JSON.stringify({
+                'first_name': $('#first_name').val(),
+                'last_name': $('#last_name').val(),
+                'email': $('#email_id').val().trim()
+            }),
+            dataType: 'json',
+            contentType: 'application/json',
+            success: function (data) {
+
+                console.log("Registered Successfully");
+                setInterval(window.location.reload(true), 5000);
+
+            },
+            error: function(data){
+                console.log("Errored out");
+            }
+        });
+    }
 });
 
+/*
 $(".modal").on("hidden.bs.modal", function(){
     $('#first_name').val('');
     $('#last_name').val('');
-    $('#email').val('');
-});
+    $('#email_id').val('');
+});*/

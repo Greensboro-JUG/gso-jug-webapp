@@ -28,9 +28,8 @@
                     <h4>Follow us on twitter <a href="https://twitter.com/GreensboroJug" target="_twitter">
                             @GreensboroJug </a> <br/> to enter for a chance to win a FREE!!! JetBrains license at the
                         MeetUp event.</h4>
-                    <button class="btn btn-outline-primary text-white"
-                            data-toggle="modal" data-target="#raffle">Get Your Ticket
-                    </button>
+
+                    <a class="btn btn-outline-primary text-white" href="/raffle-main" role="button">Enter Raffle</a>
                 </div>
             </div>
         </div>
