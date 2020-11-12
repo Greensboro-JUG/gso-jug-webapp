@@ -38,11 +38,13 @@
 	    <!-- Bootstrap core JavaScript
 	    ================================================== -->
 	    <!-- Placed at the end of the document so the pages load faster -->
-	    <script>window.jQuery || document.write('<script src="vendorjs/jquery-slim.min.js"><\/script>')</script>
+<#--	    <script>window.jQuery || document.write('<script src="vendorjs/jquery-slim.min.js"><\/script>')</script>-->
+		<script src="vendorjs/jquery-3.5.1.min.js"></script>
 	    <script src="vendorjs/popper.min.js"></script>
 	    <script src="vendorjs/bootstrap.min.js"></script>
 	    <script src="vendorjs/holder.min.js"></script>
-	    <!-- <script src="js/script.js"></script> -->
+	    <script src="js/script.js"></script>
+
 	    
 	</body>
 
