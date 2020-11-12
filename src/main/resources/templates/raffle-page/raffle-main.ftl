@@ -4,7 +4,7 @@
     <hr/>
 
     <div class="container marketing">
-
+        <h2 class="featurette-heading">Raffle for JetBrains Licenses </h2>
         <div id="raffleDiv" class="bg-blue">
             <form id="raffleForm" class="needs-validation" >
                 <div class="form-group">
