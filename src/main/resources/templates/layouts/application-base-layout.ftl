@@ -42,7 +42,8 @@
 	    <script src="vendorjs/popper.min.js"></script>
 	    <script src="vendorjs/bootstrap.min.js"></script>
 	    <script src="vendorjs/holder.min.js"></script>
-	    <!-- <script src="js/script.js"></script> -->
+	    <script src="js/script.js"></script>
+		<script src="vendorjs/jquery-3.5.1.min.js"></script>
 	    
 	</body>
 

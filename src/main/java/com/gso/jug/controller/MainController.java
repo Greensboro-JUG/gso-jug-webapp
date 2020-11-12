@@ -1,11 +1,18 @@
 package com.gso.jug.controller;
 
+import com.gso.jug.model.Raffle;
+import com.gso.jug.repository.RaffleRepository;
+import lombok.RequiredArgsConstructor;
+import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.*;
 
 @Controller
+@RequiredArgsConstructor
 public class MainController {
+
+	private final RaffleRepository raffleRepository;
 	
 	@GetMapping("/")
 	public String getDashBoard(Model model) {
@@ -21,5 +28,16 @@ public class MainController {
 	public String getLocationPage(Model model) {
 		return "location-page/location-main";
 	}
-	
+
+	@PostMapping(value = "/raffle" , consumes = MediaType.APPLICATION_JSON_VALUE , produces = MediaType.APPLICATION_JSON_VALUE)
+	public @ResponseBody Long enterRaffle(@RequestBody Raffle raffle) {
+		Raffle exisiting = raffleRepository.findByEmail(raffle.getEmail().trim());
+
+		if(null != exisiting) {
+			return exisiting.getId();
+		}
+
+		return raffleRepository.save(raffle).getId();
+	}
+
 }
