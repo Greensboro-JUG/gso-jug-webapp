@@ -2,6 +2,7 @@ package com.gso.jug.controller;
 
 import com.gso.jug.model.Raffle;
 import com.gso.jug.repository.RaffleRepository;
+import com.gso.jug.service.RaffleService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;
@@ -13,6 +14,7 @@ import org.springframework.web.bind.annotation.*;
 public class MainController {
 
 	private final RaffleRepository raffleRepository;
+	private final RaffleService raffleService;
 	
 	@GetMapping("/")
 	public String getDashBoard(Model model) {
@@ -38,6 +40,11 @@ public class MainController {
 		}
 
 		return raffleRepository.save(raffle).getId();
+	}
+
+	@GetMapping(value = "/draw", produces = MediaType.APPLICATION_JSON_VALUE)
+	public @ResponseBody Raffle draw(){
+	  return raffleService.draw();
 	}
 
 }

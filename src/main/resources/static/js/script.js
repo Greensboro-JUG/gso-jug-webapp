@@ -19,7 +19,7 @@ $('#enterRaffle').click(function (){
         data: JSON.stringify({
             'first_name' : $('#first_name').val(),
             'last_name' : $('#last_name').val(),
-            'email' : $('#email').val()
+            'email' : $('#email').val().trim()
         }),
         dataType: 'json',
         contentType: 'application/json',
