@@ -91,9 +91,7 @@
                         <input type="email" id="email" class="form-control" id="email">
                     </div>
                 </div>
-                <div id="confirmation" class="invisible">
-                    <h1 class="align-self-center col-sm-12">Ticket# <span id="ticketNo"></span></h1>
-                </div>
+
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

@@ -24,11 +24,14 @@ $('#enterRaffle').click(function (){
         dataType: 'json',
         contentType: 'application/json',
         success: function (data){
-            $('#inputs').addClass('invisible');
-            $('#enterRaffle').addClass('invisible');
-            $('#ticketNo').text(data);
-            $('#raffleModalLabel').text('Thank You!!');
-            $('#confirmation').removeClass('invisible');
+            $('#raffle').modal('toggle');
+
         }
     });
+});
+
+$(".modal").on("hidden.bs.modal", function(){
+    $('#first_name').val('');
+    $('#last_name').val('');
+    $('#email').val('');
 });
