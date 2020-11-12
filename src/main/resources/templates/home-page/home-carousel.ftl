@@ -1,25 +1,27 @@
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000">
-    <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
-    </ol>
-    <div class="carousel-inner">
-        <#--          <div class="carousel-item active" >-->
-        <#--            <div class="container-fluid carousel-image">-->
-        <#--              <div class="carousel-caption text-left" style="opacity: .2">-->
-        <#--                <h1>Our Next Meetup Event</h1>-->
-        <#--                <h4>-->
-        <#--                	March 19, 2020 @ 6:00 pm<br />                -->
-        <#--                	<big class="d-none d-sm-block">Java Workshop with Chandra Guntur</big><br />-->
-        <#--                  <big class="d-block d-sm-none pt-1">Java Workshop with <br/>Chandra Guntur</big>-->
-        <#--                </h4>-->
-        <#--                <p><a class="btn btn-lg btn-green" href="#ChandraGunturEvent" role="button">Learn More</a></p>-->
-        <#--              </div>-->
-        <#--            </div>-->
-        <#--          </div>-->
-        <div class="carousel-item active" style="background-color: black">
+
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+          <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active" >
+            <div class="container-fluid carousel-image">
+              <div class="carousel-caption text-left" >
+                <h1>Our Next Meetup Event</h1>
+                <h4>
+                	November 12, 2020 @ 6:00 pm Thu US EST<br />
+                	<big class="d-none d-sm-block">Java 9 to 15 with Chandra Guntur</big><br />
+                  <big class="d-block d-sm-none pt-1">Java 9 to 15 with <br/>Chandra Guntur</big>
+                </h4>
+                <p><a class="btn btn-lg btn-green" href="#ChandraGunturEvent" role="button">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item " style="background-color: black">
+
             <img class="meetup-logo" src="images/jetbrains-logo.svg" alt="Meetup Logo">
             <div class="container-fluid">
                 <div class="carousel-caption text-right">
