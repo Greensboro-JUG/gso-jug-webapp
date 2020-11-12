@@ -13,6 +13,9 @@
       <div class="col-12 d-none d-sm-block ">
         <ul class="navbar-nav float-right ">
           <li class="nav-item active">
+            <a class="nav-link" href="/raffle-main">Raffle</a>
+          </li>
+          <li class="nav-item active">
             <a class="nav-link" href="/">Home</a>
           </li>
           <li class="nav-item">

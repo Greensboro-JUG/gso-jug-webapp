@@ -47,4 +47,9 @@ public class MainController {
 	  return raffleService.draw();
 	}
 
+	@GetMapping("/raffle-main")
+	public String getRafflle(Model model) {
+		return "raffle-page/raffle-main";
+	}
+
 }

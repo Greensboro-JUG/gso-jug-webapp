@@ -25,7 +25,9 @@ $('#enterRaffle').click(function (){
         contentType: 'application/json',
         success: function (data){
             $('#raffle').modal('toggle');
-
+            $('#first_name').val('');
+            $('#last_name').val('');
+            $('#email').val('');
         }
     });
 });
