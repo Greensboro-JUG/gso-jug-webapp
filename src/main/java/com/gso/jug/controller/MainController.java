@@ -52,6 +52,7 @@ public class MainController {
 	@GetMapping("/raffle-main")
 	public String getRafflle(Model model) {
 		List<Raffle> raffleList = raffleRepository.findAll();
+		raffleList.sort((a,b) -> (a.isPicked() && b.isPicked()) || (!a.isPicked() && !b.isPicked()) ? a.getId().compareTo(b.getId()) : a.isPicked() ? -1 : 1);
 		model.addAttribute("raffleList", raffleList );
 		return "raffle-page/raffle-main";
 	}

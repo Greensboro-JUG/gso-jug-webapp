@@ -47,14 +47,14 @@
                                 <th scope="row">${raffle?index+1}</th>
                                 <td>${raffle.first_name}</td>
                                 <td>${raffle.last_name}</td>
-                                <td>${raffle.email}</td>
+                                <td>${raffle.email?substring(0, 1)}xxxxx@${raffle.email?keep_after("@")}</td>
                             </tr>
                         <#else>
-                            <tr >
+                            <tr>
                                 <th scope="row">${raffle?index+1}</th>
                                 <td>${raffle.first_name}</td>
                                 <td>${raffle.last_name}</td>
-                                <td>${raffle.email}</td>
+                                <td>${raffle.email} ${raffle.email?substring(0, 1)}xxxxx@${raffle.email?keep_after("@")}</td>
                             </tr>
                         </#if>
 					</#list>
