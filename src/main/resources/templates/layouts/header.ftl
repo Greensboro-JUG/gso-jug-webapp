@@ -25,8 +25,11 @@
 		  <li class="nav-item">
             <a class="nav-link" href="/#SponsorsDiv">Sponsors</a>
           </li>
-          <li class="nav-item">
+          <#--<li class="nav-item">
             <a class="nav-link" href="https://www.meetup.com/GSO-JUG/events" target="_meetup">MeetupEvents</a>
+          </li>-->
+          <li class="nav-item">
+            <a class="nav-link" href="/raffle-main">Raffle</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/location">Location</a>
@@ -54,8 +57,11 @@
 		  <li class="nav-item">
             <a class="nav-link" href="/#SponsorsDiv">Sponsors</a>
           </li>
-          <li class="nav-item">
+          <#--<li class="nav-item">
             <a class="nav-link" href="https://www.meetup.com/GSO-JUG/events" target="_meetup">MeetupEvents</a>
+          </li>-->
+          <li class="nav-item">
+            <a class="nav-link" href="/raffle-main">Raffle</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/location">Location</a>
