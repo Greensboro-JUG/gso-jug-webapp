@@ -12,9 +12,9 @@
               <div class="carousel-caption text-left" >
                 <h1>Our Next Meetup Event</h1>
                 <h4>
-                	December 10, 2020 @ 6:00 pm Thu US EST<br />
-                	<big class="d-none d-sm-block">Kubernetes/Openshift For Java Developers: Beginners: Part-1 - by <b>Edson Yanaga</b> </big><br />
-                  <big class="d-block d-sm-none pt-1">Kubernetes For Java Developers: Beginners: Part-1 - by <b>Edson Yanaga</b></big>
+                	January 14, 2020 @ 6:00 pm Thu US EST<br />
+                	<big class="d-none d-sm-block">Kubernetes/Openshift For Java Developers: Beginners: Part-2 - by <b>Edson Yanaga</b> </big><br />
+                  <big class="d-block d-sm-none pt-1">Kubernetes For Java Developers: Beginners: Part-2 - by <b>Edson Yanaga</b></big>
                 </h4>
                 <p><a class="btn btn-lg btn-green" href="#EdsonYanagaEvent" role="button">Learn More</a></p>
               </div>

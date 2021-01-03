@@ -1,29 +1,27 @@
 		<div class="row featurette" style="position: relative">
           <div class="col-md-7" >
-            <h2 class="featurette-heading">Kubernetes/Openshift for Java Developers: Beginners: Part-1 - by <b>Edson Yanaga</b> </h2>
+            <h2 class="featurette-heading">Kubernetes/Openshift for Java Developers: Beginners: Part-2 - by <b>Edson Yanaga</b> </h2>
 			<br/>
             <p class="lead">
-				Don’t be the last one to board the Kubernetes train! Even if you’re not deploying apps to Kubernetes now, you might be soon. So hurry up, take your seat in this Master Course, and learn from recognized CodeCasters about the fundamentals of Kubernetes.
+				You learned the Kubernetes basics, so what’s next? Deploying successfully, of course! Limit the resources you app can consume, perform smooth rolling updates with proper health and readiness probes, and master the configuration of your apps.
 
-				Be prepared to interact with other attendees and the instructor on this journey that includes the open hybrid cloud, Kubernetes, tooling, terminology, concepts, and practical exercises of how you can apply, deploy, and use Kubernetes to fulfill your cloud-native requirements.
+				Be prepared to interact with other attendees and your CodeCaster on this journey that includes the open hybrid cloud, Kubernetes, tooling, terminology, concepts, and practical exercises of how you can apply, deploy, and use Kubernetes to fulfill your cloud-native requirements.
 				<br/><br/>
 				Things you'll learn:<br/><br/>
-				•	Why use Kubernetes?<br/>
-				•	What Kubernetes is<br/>
-				•	Kubernetes installation<br/>
-				•	Kubernetes CLI with kubectl<br/>
-				•	Pod, ReplicaSet, and Deployment<br/>
-				•	Logs and stern<br/>
-				•	Applications as a Service<br/>
+				•	Building images<br/>
+				•	Resource Limits<br/>
+				•	Rolling update delivery<br/>
+				•	Liveness and readiness probes<br/>
+				•	Environment variables and ConfigMaps<br/>
 				<br/>
-				Dont miss this change to learn from <b>Edson Yanaga </b>, Java Champion , Microsoft MVP & Director of Dev experience at Redhat .
+				Dont miss this chance to learn from <b>Edson Yanaga </b>, Java Champion , Microsoft MVP & Director of Dev experience at Redhat .
 				<br/>
 			</p>
 
             <p class="lead">
-				Event Date & Time : <b>December 10th 2020 Thu @ 06:00 PM US EST</b> <br/>
-				Where: <a href="https://us02web.zoom.us/j/86915618106" target="_zoom">Online ZOOM MEETING </a> <br/>
-				ZOOM Meeting ID : <b>869 1561 8106</b>
+				Event Date & Time : <b>January 14th 2020 Thu @ 06:00 PM US EST</b> <br/>
+				Where: <a href="https://us02web.zoom.us/j/82080515263" target="_zoom">Online ZOOM MEETING </a> <br/>
+				ZOOM Meeting ID : <b>820 8051 5263</b>
 			</p>
             	<div class="col-lg-offset-2 col-lg-10"></div>
             	<div class="col-lg-offset-2 col-lg-10"></div>
