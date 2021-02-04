@@ -5,11 +5,13 @@
 			  <h2>Everything you've ever wanted - and ONLY what you want!)</h2>
 			<br/>
 			  <h2>-by Andrew McCright</h2>
+			  <br/>
             <p class="lead">
 				Do you find yourself parsing through a lot of data from a remote service?
 				Or making multiple requests to get the data you really want?
 				GraphQL was designed to get you all the data you want in just one round-trip.
 				Come learn how you can integrate GraphQL in your applications using a trusted framework in MicroProfile.
+				This session also briefly talks about microprofile.
 
 				<br/>
 				<br/>
