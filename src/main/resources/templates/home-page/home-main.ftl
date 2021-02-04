@@ -9,7 +9,7 @@
 
       <div class="container marketing">
 	      	
-	      	<div id="EdsonYanagaEvent" class="bg-blue">
+	      	<div id="IBMMicroprofileEvent" class="bg-blue">
 	      		<#include "home-learn-more.ftl">
 	      	</div>
 	      	
