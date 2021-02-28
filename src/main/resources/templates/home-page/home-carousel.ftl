@@ -12,11 +12,11 @@
               <div class="carousel-caption text-left" >
                 <h1>Our Next Meetup Event</h1>
                 <h4>
-                	February 11, 2021 @ 6:00 pm Thu US EST<br />
-                	<big class="d-none d-sm-block">Microprofile-GRAPHQL - by <b>Andrew McCright(IBM)</b> </big><br />
-                  <big class="d-block d-sm-none pt-1">Microprofile-GRAPHQL - by <b>Andrew McCright(IBM)</b></big>
+                	March 11, 2021 @ 6:00 pm Thu US EST<br />
+                	<big class="d-none d-sm-block">An Introduction to Kotlin - by <b>Todd Ginsberg, Research Architect @ Netspend</b> </big><br />
+                  <big class="d-block d-sm-none pt-1">An Introduction to Kotlin - by <b>Todd Ginsberg, Research Architect @ Netspend</b></big>
                 </h4>
-                <p><a class="btn btn-lg btn-green" href="#IBMMicroprofileEvent" role="button">Learn More</a></p>
+                <p><a class="btn btn-lg btn-green" href="#KotlinEvent" role="button">Learn More</a></p>
               </div>
             </div>
           </div>
