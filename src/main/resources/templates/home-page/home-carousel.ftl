@@ -12,11 +12,11 @@
               <div class="carousel-caption text-left" >
                 <h1>Our Next Meetup Event</h1>
                 <h4>
-                	March 11, 2021 @ 6:00 pm Thu US EST<br />
-                	<big class="d-none d-sm-block">An Introduction to Kotlin - by <b>Todd Ginsberg, Research Architect @ Netspend</b> </big><br />
-                  <big class="d-block d-sm-none pt-1">An Introduction to Kotlin - by <b>Todd Ginsberg, Research Architect @ Netspend</b></big>
+                	April 8, 2021 @ 6:00 pm Thu US EST<br />
+                	<big class="d-none d-sm-block">Scale your serverless apps up and to zero with Openshift/KNATIVE! - by <b>Edson Yanga</b> </big><br />
+                  <big class="d-block d-sm-none pt-1">Scale your serverless apps up and to zero with Openshift/KNATIVE! - by <b>Edson Yanga</b></big>
                 </h4>
-                <p><a class="btn btn-lg btn-green" href="#KotlinEvent" role="button">Learn More</a></p>
+                <p><a class="btn btn-lg btn-green" href="#EdsonKnativeEvent" role="button">Learn More</a></p>
               </div>
             </div>
           </div>
@@ -35,11 +35,11 @@
         </div>
         <div class="carousel-item">
             <div class="container-fluid carousel-image-past-event">
-                <div class="carousel-caption text-left">
+                <!--<div class="carousel-caption text-left">
                     <h1>Successful Inaugural Event</h1>
                     <h4>
                         Great session from Dr. Venkat Subramaniam. <br/>Thank you every one for the support !
-                    </h4>
+                    </h4>-->
                 </div>
             </div>
         </div>

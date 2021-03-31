@@ -1,28 +1,23 @@
 		<div class="row featurette" style="position: relative">
           <div class="col-md-7" >
-            <h2 class="featurette-heading">An Introduction to Kotlin</h2>
+            <h2 class="featurette-heading">Scale your serverless apps up and to zero with Openshift/KNATIVE!</h2>
 			<br/>
-			  <h2>-by Todd Ginsberg, Research Architect @ Netspend.</h2>
+			  <h2>-by Edson Yanaga, Director @ Redhat.</h2>
 			  <br/>
             <p class="lead">
 
-				Kotlin sure has been receiving a lot of buzz lately, is there something to it?
-				Developed by JetBrains, Kotlin has been catching on lately because of its null safety
-				guarantees, functional nature, type inference, full interoperability with Java,
-				cross-platform support, and ease of use with Android and Spring.
-				Is this something you and your team should consider spending time to learn?
-				In this session we will go over what Kotlin is, what problems it solves,
-				and what makes it stand out from other JVM languages. You’ll come away with enough
-				knowledge to decide if this is something you and your team should consider adopting.
+				Kubernetes-native serverless with Knative grants you the “magical” ability to scale to zero if your application component is underutilized.
+				Perhaps more importantly, the skills and code you craft with Knative and Kubernetes are portable to all of the big cloud providers.
+				In this session, we will show you how to get started and how to keep rocking with the interesting capabilities of Knative Serving and Knative Eventing.
 
 				<br/>
 
 			</p>
 
             <p class="lead">
-				Event Date & Time : <b>March 11th 2021 Thu @ 06:00 PM US EST</b> <br/>
-				Where: <a href="https://us02web.zoom.us/j/87290705557" target="_zoom">Online ZOOM MEETING </a> <br/>
-				ZOOM Meeting ID : <b>872 9070 5557</b>
+				Event Date & Time : <b>April 8th 2021 Thu @ 06:00 PM US EST</b> <br/>
+				Where: <a href="https://us02web.zoom.us/j/89172720788" target="_zoom">Online ZOOM MEETING </a> <br/>
+				ZOOM Meeting ID : <b>891 7272 0788</b>
 			</p>
             	<div class="col-lg-offset-2 col-lg-10"></div>
             	<div class="col-lg-offset-2 col-lg-10"></div>
@@ -38,7 +33,7 @@
             
           </div>
           <div class="col-md-5 featurette-image">
-            <img class="img-fluid rounded-circle mx-auto" src="images/ToddGinsberg.jpg">
+            <img class="img-fluid rounded-circle mx-auto" src="images/edson-yanaga.png">
           </div>
           
         </div>
