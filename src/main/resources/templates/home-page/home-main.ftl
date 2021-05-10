@@ -9,7 +9,7 @@
 
       <div class="container marketing">
 	      	
-	      	<div id="EdsonKnativeEvent" class="bg-blue">
+	      	<div id="MaryReactiveEvent" class="bg-blue">
 	      		<#include "home-learn-more.ftl">
 	      	</div>
 	      	

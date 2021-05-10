@@ -12,11 +12,11 @@
               <div class="carousel-caption text-left" >
                 <h1>Our Next Meetup Event</h1>
                 <h4>
-                	April 8, 2021 @ 6:00 pm Thu US EST<br />
-                	<big class="d-none d-sm-block">Scale your serverless apps up and to zero with Openshift/KNATIVE! - by <b>Edson Yanga</b> </big><br />
-                  <big class="d-block d-sm-none pt-1">Scale your serverless apps up and to zero with Openshift/KNATIVE! - by <b>Edson Yanga</b></big>
+                	May 13th, 2021 @ 6:00 pm Thu US EST<br />
+                	<big class="d-none d-sm-block">REACTIVE FOR THE IMPATIENT <br/>- by <b>Mary Grygleski</b> </big><br />
+                  <big class="d-block d-sm-none pt-1">REACTIVE FOR THE IMPATIENT <br/>- by<b>Mary Grygleski</b></big>
                 </h4>
-                <p><a class="btn btn-lg btn-green" href="#EdsonKnativeEvent" role="button">Learn More</a></p>
+                <p><a class="btn btn-lg btn-green" href="#MaryReactiveEvent" role="button">Learn More</a></p>
               </div>
             </div>
           </div>
